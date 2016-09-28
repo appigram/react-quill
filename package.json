@@ -1,17 +1,17 @@
 {
-  "name": "react-quill",
-  "version": "2.0.1",
+  "name": "react-quill-v2",
+  "version": "2.0.2",
   "description": "The Quill rich-text editor as a React component.",
-  "author": "zenoamaro <zenoamaro@gmail.com>",
-  "homepage": "https://github.com/zenoamaro/react-quill",
+  "author": "apppigram <appigram@gmail.com>",
+  "homepage": "https://github.com/appigram/react-quill",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zenoamaro/react-quill/issues",
-    "email": "zenoamaro@gmail.com"
+    "url": "https://github.com/appigram/react-quill/issues",
+    "email": "appigram@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zenoamaro/react-quill.git"
+    "url": "https://github.com/appigram/react-quill.git"
   },
   "main": "src/index.js",
   "scripts": {
